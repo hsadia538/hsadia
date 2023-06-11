@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Halima Khan</h1>
+<h1 align="center">Hi 👋, I'm Haleema Khan</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
 
 <h3 align="left">Connect with me:</h3>
